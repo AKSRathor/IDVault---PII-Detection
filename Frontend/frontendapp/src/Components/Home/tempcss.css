@@ -1,0 +1,24 @@
+#mycarousel1{
+    display: flex !important;
+    height: 90vh;
+    z-index: -2;
+    position: relative;
+}
+#mycarousel2{
+    display: flex !important;
+    height: 90vh;
+    z-index: -2;
+    position: relative;
+}
+#mycarousel3{
+    display: flex !important;
+    height: 90vh;
+    z-index: -2;
+    position: relative;
+}
+#mycarousel4{
+    display: flex !important;
+    height: 90vh;
+    z-index: -2;
+    position: relative;
+}
