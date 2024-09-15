@@ -45,7 +45,22 @@ This integrated system empowers users to efficiently detect, classify, and asses
 ### Vision
  <p align="center">
   <img src="https://github.com/user-attachments/assets/8219dc84-481a-4a11-a6a4-1cda343aa6cd">
- </p>   
+ </p>
+
+ ### Connect-AWS-SQL-SERVER
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/8cbab0a1-4809-4b16-8492-97f109eb1e01">
+ </p>
+
+ ### PII DETECTION
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/b1e2e547-fe78-4502-8aeb-c9e1327431b2">
+ </p>
+
+ ### Risk Score
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/97b7619e-c5fb-4fe6-93fe-e3a0a6b61eeb">
+ </p>
    
   -------------------------------------
   ## Contributing
