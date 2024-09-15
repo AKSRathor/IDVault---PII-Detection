@@ -24,12 +24,21 @@
    object.
 
 ## Our Solution -
- - We are developing an integrated platform that combines a blockchain-based e-vault for secure legal records and an AI-powered legal documentation assistant. The blockchain-powered e-vault ensures the utmost       security of legal documents, utilizing Non-Fungible Tokens (NFTs) for authentication and decentralized storage for tamper-proof records.
- - This guarantees data integrity and prevents unauthorized access, addressing the concerns about document security. Simultaneously, our AI-powered legal documentation assistant streamlines document management 
-   by automating organization, employing Optical Character Recognition (OCR) for text extraction, and generating multilingual summaries through machine learning.
- - We are also empowering users with smart contracts, granular access control, and a user-friendly interface, facilitating seamless integration with traditional legal systems. Our monetization strategies include 
-   client-based compensation models, subscription plans, and a legal professional marketplace.
- - In summary, our project offers a comprehensive, innovative solution that addresses both security and accessibility challenges within the legal industry and we aim at modernizing legal document management.
+Our solution offers a robust and comprehensive approach to identifying, classifying, and assessing the risk of Personally Identifiable Information (PII) across diverse data repositories.
+
+     - Regex Implementation: We implemented pre-defined regex scripts tailored for specific PII types, such as names, email addresses, credit/debit card information, phone numbers, and Aadhaar numbers. This    
+       ensures highly accurate PII detection while minimizing false positives.
+
+     - NLP Implementation: By leveraging advanced natural language processing (NLP) techniques, including pre-trained models, regular expressions, Named Entity Recognition (NER), and Spacy, we efficiently 
+       identify and classify PII in unstructured text, enhancing the accuracy of detection for more complex data types.
+
+     - PII Risk Assessment: Our tool performs a detailed PII risk assessment in compliance with GDPR, HIPAA, and PCI-DSS standards. PII is categorized into high, medium, and low sensitivity levels—high 
+       sensitivity includes Aadhaar numbers and credit card details, medium covers driving license numbers and phone numbers, and low sensitivity includes full names, email addresses, IP addresses, and gender. 
+       This allows for targeted risk mitigation based on the sensitivity of the data.
+
+To present these capabilities, we built an intuitive web interface using React.js for the frontend and Python for the backend, offering a seamless and interactive user experience. For data storage and management, we leveraged AWS to host our SQL server, ensuring a scalable, secure infrastructure capable of handling large volumes of sensitive data.
+
+This integrated system empowers users to efficiently detect, classify, and assess PII risks while ensuring regulatory compliance and secure data management, all through a user-friendly interface designed for ease of use and maximum performance.
 
 ## About
 
