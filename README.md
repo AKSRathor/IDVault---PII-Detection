@@ -1,9 +1,9 @@
 <a href = "https://youtu.be/55oDDagXtnc" target="_blank">Video Link</a>
 <br/>
+<br/>
 <p align="center">
- 
 ![WhatsApp Image 2023-11-05 at 14 06 55_a2f42e0a](https://github.com/AKSRathor/PortfolioBackend/assets/86844932/3aabf3f6-d3f7-44d8-9467-9a2f5955fd5a)       
-        </p>
+</p>
 <h1 align="center">IDVault</h1>
 <h3 align="center">Trusted Protocol For Personal Documents Identification<h3>
 
@@ -27,13 +27,13 @@
    client-based compensation models, subscription plans, and a legal professional marketplace.
  - In summary, our project offers a comprehensive, innovative solution that addresses both security and accessibility challenges within the legal industry and we aim at modernizing legal document management.
 
-
 ## About
 
 ### Dashboard
  <p align="center">
   <img src="https://github.com/AKSRathor/PortfolioBackend/assets/86844932/26ff22b6-c82e-4338-aa39-595928e7c142">
-</p>   
+ </p>   
+
    
   -------------------------------------
   ## Contributing
