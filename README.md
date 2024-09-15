@@ -1,7 +1,5 @@
 <a href = "https://youtu.be/m1XlggplRic" target="_blank">Video Link</a>
 
-[![Watch the video](https://img.youtube.com/vi/m1XlggplRic/0.jpg)](https://youtu.be/m1XlggplRic)
-
 <br/>
 <a href = "https://www.canva.com/design/DAGQ1fJQOgw/60Cd5KHr-Szz_tFm8ioFEw/view?utm_content=DAGQ1fJQOgw&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Presentation Link</a>
 <br/>
