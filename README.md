@@ -44,8 +44,26 @@ This integrated system empowers users to efficiently detect, classify, and asses
  <p align="center">
   <img src="https://github.com/user-attachments/assets/b5c475af-743d-4085-8805-367fce3dcca4">
  </p>
- ###Architecture Explaination
  
+ ### Architecture Explaination
+ Your flowchart outlines the process of PII detection and classification through both frontend (React) and backend (Python) systems:
+ #### 1. Frontend (React):
+   -**Authentication**: Users log in/register to access the system.
+   -**Dashboard**: Provides options to:
+   -**Raw Data Access**: Users can view PII content via AWS/GCP URL, share raw JSON data, or create tables dynamically for PII detection.
+   -**Upload Data**: Users can upload CSV files for PII detection.
+
+#### 2. Backend (Python):
+  - **Data Loading**: Data is ingested in JSON, CSV, or SQL formats.
+  - **Data Formatting**: Invalid data is converted to valid JSON format.
+  - **Row-wise Processing**: Each row is processed in the format `"{Column_name}: + {Row_value}"`.
+  - **PII Detection**: Using **Presidio**, **Spacy NLP**, and **Regex** to detect and classify PII.
+
+#### 3. Return to Frontend:
+  - The detected PII values are sent back to the frontend and displayed on the dashboard.
+
+This setup ensures seamless PII detection, classification, and risk assessment across various data sources.
+
 ## About
 
 ### Vision
