@@ -4,7 +4,9 @@
 <br/>
 <br/>
 <p align="center">
-![image](https://github.com/user-attachments/assets/1de01eb4-cba9-4554-8958-46e822121e3a)      
+ 
+![image](https://github.com/user-attachments/assets/1de01eb4-cba9-4554-8958-46e822121e3a)
+ 
 </p>
 <h1 align="center">IDVault</h1>
 <h3 align="center">Trusted Protocol For Personal Documents Identification<h3>
