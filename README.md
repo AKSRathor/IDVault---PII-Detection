@@ -48,10 +48,10 @@ This integrated system empowers users to efficiently detect, classify, and asses
  ### Architecture Explaination
  Your flowchart outlines the process of PII detection and classification through both frontend (React) and backend (Python) systems:
  #### 1. Frontend (React):
-   -**Authentication**: Users log in/register to access the system.
-   -**Dashboard**: Provides options to:
-   -**Raw Data Access**: Users can view PII content via AWS/GCP URL, share raw JSON data, or create tables dynamically for PII detection.
-   -**Upload Data**: Users can upload CSV files for PII detection.
+   - **Authentication**: Users log in/register to access the system.
+   - **Dashboard**: Provides options to:
+   - **Raw Data Access**: Users can view PII content via AWS/GCP URL, share raw JSON data, or create tables dynamically for PII detection.
+   - **Upload Data**: Users can upload CSV files for PII detection.
 
 #### 2. Backend (Python):
   - **Data Loading**: Data is ingested in JSON, CSV, or SQL formats.
