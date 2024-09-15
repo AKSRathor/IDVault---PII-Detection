@@ -45,6 +45,7 @@ This integrated system empowers users to efficiently detect, classify, and asses
  <p align="center">
   <img src="https://github.com/user-attachments/assets/b5c475af-743d-4085-8805-367fce3dcca4">
  </p>
+ ###Architecture Explaination
  
 ## About
 
@@ -73,9 +74,6 @@ This integrated system empowers users to efficiently detect, classify, and asses
   <img src="https://github.com/user-attachments/assets/97b7619e-c5fb-4fe6-93fe-e3a0a6b61eeb">
  </p>
 
- ###Architecture Explaination
- 
-   
   -------------------------------------
   ## Contributing
   - We're are open to enhancements & bug-fixes.
