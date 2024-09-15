@@ -33,11 +33,10 @@
 
 ## About
 
-### Dashboard
+### Vision
  <p align="center">
-  <img src="https://github.com/AKSRathor/PortfolioBackend/assets/86844932/26ff22b6-c82e-4338-aa39-595928e7c142">
+  <img src="https://github.com/user-attachments/assets/8219dc84-481a-4a11-a6a4-1cda343aa6cd">
  </p>   
-
    
   -------------------------------------
   ## Contributing
