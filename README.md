@@ -39,11 +39,13 @@ Our solution offers a robust and comprehensive approach to identifying, classify
 To present these capabilities, we built an intuitive web interface using React.js for the frontend and Python for the backend, offering a seamless and interactive user experience. For data storage and management, we leveraged AWS to host our SQL server, ensuring a scalable, secure infrastructure capable of handling large volumes of sensitive data.
 
 This integrated system empowers users to efficiently detect, classify, and assess PII risks while ensuring regulatory compliance and secure data management, all through a user-friendly interface designed for ease of use and maximum performance.
+
   -------------------------------------
 ## Architecture
  <p align="center">
   <img src="https://github.com/user-attachments/assets/b5c475af-743d-4085-8805-367fce3dcca4">
  </p>
+ 
 ## About
 
 ### Vision
