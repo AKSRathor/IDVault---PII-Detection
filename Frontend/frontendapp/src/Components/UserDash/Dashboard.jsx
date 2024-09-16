@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import Loadedview from '../Afterview/Loadedview';
+import { useNavigate } from 'react-router-dom'
 import {
     MenuFoldOutlined,
     MenuUnfoldOutlined,
@@ -14,8 +16,7 @@ import AWSLoader from '../Rawdata.jsx/UrlLoader/AWSLoader';
 import CreateTable from '../Rawdata.jsx/TableCreator/CreateTable';
 import { Outlet } from 'react-router-dom';
 const { Header, Sider, Content } = Layout;
-import { useNavigate } from 'react-router-dom'
-import Loadedview from '../Afterview/Loadedview';
+
 
 
 
