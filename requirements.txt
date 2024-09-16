@@ -11,3 +11,4 @@ flask
 python-dotenv
 mysql-connector-python
 pandas
+flask_cors
