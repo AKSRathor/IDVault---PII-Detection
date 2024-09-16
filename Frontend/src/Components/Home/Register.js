@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import Header from '../Home/Comp/Header';
+import Header from './Comp/Header';
 import { BiUser } from 'react-icons/bi';
 import { AiOutlineLock } from 'react-icons/ai';
 const Register = () => {
