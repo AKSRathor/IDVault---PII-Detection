@@ -45,6 +45,10 @@ class PatternFormat():
         else:
             print(f"No recognizer found for {self.name}.")
 
+
+@app.route("/", methods=['GET'])
+def home():
+    return "Welcome to the home page"
     
 @app.route("/getalldatabases", methods =['GET', 'POST'])
 def show_db():
