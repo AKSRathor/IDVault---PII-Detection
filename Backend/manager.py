@@ -153,6 +153,7 @@ def parse_analyzer(analyzer, mytext, mykey):
 @app.route("/traversedocall", methods =['GET', 'POST'])
 def tranversedocall():
     if(request.method == "POST"):
+        print("over to post")
         analyzer = AnalyzerEngine()
         myarr = request.json["add_pattern"]
         for x in myarr:
@@ -160,6 +161,7 @@ def tranversedocall():
             pf.add_pattern(analyzer)
             patternList.append(pf)
         mydataarr = request.json["document_content"]
+        print("arr traversed")
         for i in range(len(mydataarr)):
             myobj = mydataarr[i]
             for key in myobj:
@@ -168,6 +170,7 @@ def tranversedocall():
         pprint.pprint(mydataarr)
         
         del analyzer
+        print("returning")
         return mydataarr
     return "NA"
 
