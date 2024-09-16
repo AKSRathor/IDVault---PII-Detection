@@ -1,0 +1,13 @@
+langchain 
+langchain-experimental 
+openai 
+presidio-analyzer 
+presidio-anonymizer 
+spacy 
+Faker 
+faiss-cpu 
+tiktoken
+flask
+python-dotenv
+mysql-connector-python
+pandas
