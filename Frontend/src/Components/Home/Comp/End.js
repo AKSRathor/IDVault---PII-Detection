@@ -12,7 +12,7 @@ const End = () => {
                     <div className='space-y-4 my-8 mx-10'>
                         <a href=''className='text-2xl font-semibold flex items-center space-x-2'>
                         <img src={logo} alt='' className='w-20 inline-block items-center rounded-full' />
-                        <span className='text-steelBlue'>IDVault</span>
+                        <span className='text-red-500'>IDVault</span>
                         </a>
                         <div>
                             <p className='mb-1 text-silver font-semibold'> Copyright © 2023 IDVault.</p>
